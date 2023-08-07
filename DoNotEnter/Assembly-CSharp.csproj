@@ -69,6 +69,7 @@
     <Compile Include="Assets\preuba arma\raycas.cs" />
     <Compile Include="Assets\Scripts\PlayerSystems\ItemData.cs" />
     <Compile Include="Assets\Scripts\PlayerSystems\PlayerItemGrabber.cs" />
+    <Compile Include="Assets\sissalud\Saludjugador.cs" />
     <Reference Include="UnityEngine.Purchasing">
       <HintPath>C:/Users/48111356/Desktop/proyectofinal/DoNotEnter/DoNotEnter/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
     </Reference>
