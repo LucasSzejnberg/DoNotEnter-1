@@ -17,7 +17,7 @@ public class Balapistola : MonoBehaviour
     {
         
     }
-    void OnCollisionEnter(Collision collision)
+    void OnCollisionEnter(Collision col)
     {
         // Puedes añadir aquí lógica para gestionar colisiones si es necesario
         // Por ejemplo, puedes añadir efectos visuales o sonidos al impacto.

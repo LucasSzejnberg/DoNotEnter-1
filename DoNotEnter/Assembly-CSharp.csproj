@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\preuba arma\Balapistola.cs" />
+    <Compile Include="Assets\preuba arma\Laser.cs" />
     <Compile Include="Assets\preuba arma\Pistola.cs" />
     <Compile Include="Assets\preuba arma\raycas.cs" />
     <Compile Include="Assets\Scripts\PlayerSystems\ItemData.cs" />
